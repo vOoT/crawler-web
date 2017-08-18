@@ -1,0 +1,12 @@
+/target/
+.settings/
+.idea
+.idea/
+.diff
+/disconf/
+.idea/misc.xml
+.classpath
+.project
+**.diff**
+.settings/
+*.iml
